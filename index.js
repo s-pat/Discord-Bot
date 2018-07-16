@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const TOKEN = " "; //youtube auth token required here
+const TOKEN = " "; //auth token required here
 const PREFIX = "!";
 
 const YTDL = require('ytdl-core');
