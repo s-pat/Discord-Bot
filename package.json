@@ -1,0 +1,18 @@
+{
+  "name": "kanasbot",
+  "version": "1.0.0",
+  "description": "Kanas son",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kana (S Pat)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "ffmpeg": "0.0.4",
+    "opusscript": "0.0.6",
+    "youtube-search": "^1.0.10",
+    "ytdl-core": "^0.20.1"
+  }
+}
